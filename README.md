@@ -1,0 +1,2 @@
+# software-technologies
+for exercises
